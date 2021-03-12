@@ -3,4 +3,4 @@ from django.shortcuts import render
 
 # Create your views here.
 def Hola(request):
-    return HttpResponse("<h1> ejemplo en git </h1>")
+    return HttpResponse("<h2> un ejemplo en git 2 </h2>")
